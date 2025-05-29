@@ -73,6 +73,7 @@ Al arrancar, el **ESP32-S3** se conecta automáticamente a una red WiFi (con SSI
 4. Desde el navegador, se accede a esa IP y se puede ver el monitor funcionando en tiempo real.
 
 ---
+# Vista de usuario
 
 ![Captura de pantalla 2025-05-29 130034](https://github.com/user-attachments/assets/0e9d50be-b6f7-4d13-aab6-5b100c046c68)
 
