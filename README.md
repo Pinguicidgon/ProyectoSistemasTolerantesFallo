@@ -14,6 +14,7 @@
 4. [Información que se muestra en la web](#información-que-se-muestra-en-la-web)
 5. [Arquitectura del programa](#arquitectura-del-programa)
 6. [Proceso de uso](#proceso-de-uso)
+7. [Vista de usuario](#vista-de-usuario)
 
 ---
 
